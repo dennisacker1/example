@@ -5,6 +5,7 @@ body {
 li {
 	padding: 10;
   	margin: auto;
+	text-align:center;
 }
 
 ul {
@@ -15,5 +16,5 @@ ul {
 }
 
 h1 {
-	margin-left: 25%;
+	text-align:center;
 }
